@@ -25,7 +25,7 @@
         <p><strong>Status:</strong> <?= esc($status) ?></p>
       </div>
       <div class="text-center">
-        <a href="/homepage" class="btn btn-secondary mt-3">Back to Form</a>
+        <a href="/" class="btn btn-secondary mt-3">Back to Form</a>
       </div>
     </div>
   </div>
